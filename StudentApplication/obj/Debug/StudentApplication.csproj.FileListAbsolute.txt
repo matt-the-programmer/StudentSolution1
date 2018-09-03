@@ -1,0 +1,9 @@
+C:\Users\Matt\documents\visual studio 2017\Projects\StudentSolution\StudentApplication\bin\StudentApplication.dll.config
+C:\Users\Matt\documents\visual studio 2017\Projects\StudentSolution\StudentApplication\bin\StudentApplication.dll
+C:\Users\Matt\documents\visual studio 2017\Projects\StudentSolution\StudentApplication\bin\StudentApplication.pdb
+C:\Users\Matt\documents\visual studio 2017\Projects\StudentSolution\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matt\documents\visual studio 2017\Projects\StudentSolution\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matt\documents\visual studio 2017\Projects\StudentSolution\StudentApplication\obj\Debug\StudentApplication.csprojResolveAssemblyReference.cache
+C:\Users\Matt\documents\visual studio 2017\Projects\StudentSolution\StudentApplication\obj\Debug\StudentApplication.csproj.CoreCompileInputs.cache
+C:\Users\Matt\documents\visual studio 2017\Projects\StudentSolution\StudentApplication\obj\Debug\StudentApplication.dll
+C:\Users\Matt\documents\visual studio 2017\Projects\StudentSolution\StudentApplication\obj\Debug\StudentApplication.pdb

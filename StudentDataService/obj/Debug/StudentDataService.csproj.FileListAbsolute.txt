@@ -1,0 +1,22 @@
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/StudentDataService.dll.config
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/StudentDataService.dll
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/StudentDataService.pdb
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/Dapper.dll
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/EntityFramework.dll
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/EntityFramework.SqlServer.dll
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/System.Data.SQLite.dll
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/System.Data.SQLite.EF6.dll
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/System.Data.SQLite.Linq.dll
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/Dapper.xml
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/EntityFramework.xml
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/EntityFramework.SqlServer.xml
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/System.Data.SQLite.xml
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/bin/System.Data.SQLite.dll.config
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/obj/Debug/StudentDataService.csprojResolveAssemblyReference.cache
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/obj/Debug/StudentDataService.csproj.CoreCompileInputs.cache
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/obj/Debug/StudentDataService.dll
+C:/Users/Matt/documents/visual studio 2017/Projects/StudentSolution/StudentDataService/obj/Debug/StudentDataService.pdb
+/Users/mattmilzewski/Downloads/StudentSolution/StudentDataService/obj/Debug/StudentDataService.dll
+/Users/mattmilzewski/Downloads/StudentSolution/StudentDataService/obj/Debug/StudentDataService.pdb
